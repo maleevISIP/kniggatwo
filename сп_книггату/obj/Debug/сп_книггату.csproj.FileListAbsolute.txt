@@ -1,0 +1,6 @@
+C:\Users\vinchi\Desktop\прога\ооп4\сп_книггату\сп_книггату\bin\Debug\сп_книггату.exe.config
+C:\Users\vinchi\Desktop\прога\ооп4\сп_книггату\сп_книггату\bin\Debug\сп_книггату.exe
+C:\Users\vinchi\Desktop\прога\ооп4\сп_книггату\сп_книггату\bin\Debug\сп_книггату.pdb
+C:\Users\vinchi\Desktop\прога\ооп4\сп_книггату\сп_книггату\obj\Debug\сп_книггату.csproj.CoreCompileInputs.cache
+C:\Users\vinchi\Desktop\прога\ооп4\сп_книггату\сп_книггату\obj\Debug\сп_книггату.exe
+C:\Users\vinchi\Desktop\прога\ооп4\сп_книггату\сп_книггату\obj\Debug\сп_книггату.pdb
